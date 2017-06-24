@@ -1,2 +1,2 @@
-# coursera_fullstack_assign2
-Assignment 2
+# coursera_fullstack
+Assignments
